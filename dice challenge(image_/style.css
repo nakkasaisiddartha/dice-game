@@ -1,0 +1,17 @@
+body{
+  background-color:#d1eaa3;
+   text-align:center;
+}
+
+
+h1{
+  color:#66bfbf;
+
+}
+div{
+  display:inline;
+}
+button{
+  font-size:2rem;
+  color:#66cfcf;
+}
